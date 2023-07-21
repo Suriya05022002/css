@@ -1,0 +1,21 @@
+ul
+{
+list-style-type:none;
+padding:10px;
+background-color:#3399FF;
+width:25%;
+}
+ul li
+{
+ text-transform:uppercase;
+ background-color:#CCE5FF;
+ margin:20px;
+ padding:20px;
+border-style:30px 30px;
+ }
+ ul li:hover
+ {
+	 background-color:red;
+	 color:white;
+	 text-decoration:underline;
+ }

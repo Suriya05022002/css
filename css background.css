@@ -1,0 +1,12 @@
+body
+{
+ background-image:url("images/pic.jpg");
+ background-repeat:Repeat-x;
+
+}
+ h1
+ {
+ color:white;
+ background-color:blue;
+ text-align:center;
+ }
